@@ -27,9 +27,9 @@
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/>
 </div>
-</br>
+<br>
 
-Tools:
+#### Tools:
 <div>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=visualstudio"/>
@@ -39,8 +39,8 @@ Tools:
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>
 </div>
 
-
-## Contact me:
+<br>
+<h1>Contact me:</h1>
 <div>
 <a href = "mailto: mateuszpieczulis123@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
